@@ -19,7 +19,7 @@ public class homepage extends AppCompatActivity {
         setContentView(R.layout.activity_homepage);
         tmarquee = findViewById(R.id.welcome);
         t1 = findViewById(R.id.text1);
-
+t3=findViewById(R.id.lgm);
         t1 = (TextView) findViewById(R.id.text1);
 
         // Now we will call setSelected() method
